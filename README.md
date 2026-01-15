@@ -20,3 +20,4 @@ Flashing offsets:
 0x8000 partition-table.bin
 0xf000 ota_data_initial.bin
 ```
+ 
