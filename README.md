@@ -1,3 +1,6 @@
+This repository constaints POC implementation.
+For actively maintained version see one of fork, eg [tostmann/esp-coordinator](https://github.com/tostmann/esp-coordinator).
+
 ZBOSS NCP Serial Protocol implementation for ESP32-C6/H2 module.
 
 This implementation functional limited to coordinator role for usage with [zigbee2mqtt](https://www.zigbee2mqtt.io).
